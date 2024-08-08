@@ -6,7 +6,7 @@
 .navbar-brand{
     font-size: 2rem;
     color: black;
-    font-family: "Outfit", sans-serif;
+    font-family: "Anton", sans-serif;
 }
 .navbar-brand:hover{
     color: black;
@@ -54,4 +54,15 @@
     position: relative;
     top: 400px;
     right: -300px;
+}
+.btn1:hover{
+   background-color: red;
+   
+}
+h1{
+    font-weight: 700;
+}
+.new img{
+    width:100px;
+    height: 80px;
 }

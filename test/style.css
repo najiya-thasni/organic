@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+
+#signupb{
+background-color: rgb(255, 136, 0);
+color: white;
+border-radius: 0;
+}
+
+#navbarSupportedContent{
+margin-left: 300px;
+}
+
+#bannerimg{
+    margin-left: 340px;
+    
+}
+
+.container{
+    position: relative;
+    
+    color: rgb(0, 0, 0);
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+  }
+
+  #bannerimg{
+    margin-left: 480px;
+  }
+
+
+#logoo{
+    margin-left: 220px
+}
+
+.btncontainer{
+    margin-right: 100px;
+}
+.services{
+    background-color: rgba(206, 199, 199, 0.343);
+    padding: 400px;
+}
+.services h1{
+margin-left: 335px;
+
+}
+
+.servicecontainer{
+    position: relative;
+    background: rgb(221, 221, 221);
+    padding: 400px;
+  }
+
+  .centeredserv {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+  }
+
+  .centeredserv h1{
+    font-size: 30px;
+  }
